@@ -1,2 +1,16 @@
-# python-classes-lectures
-This repository serves as my personal **Python OOP learning notes**. It may also be useful for beginners who want simple, easy-to-follow examples of Python class concepts.  
+
+# Python Classes Lectures  
+
+This repository contains my lecture notes and example codes related to **Python Classes and Object-Oriented Programming (OOP)**.  
+The goal of this repo is to keep all my practice files, exercises, and explanations in one place while learning Python OOP concepts.  
+
+## 📌 Topics Covered
+- Introduction to Classes and Objects  
+- Instance Variables and Methods  
+- Class Variables and Methods  
+- Constructors (`__init__`)  
+- Inheritance  
+- Polymorphism  
+- Encapsulation  
+- Abstraction  
+- and others
